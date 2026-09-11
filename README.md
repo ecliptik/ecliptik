@@ -12,7 +12,7 @@
 
 </div>
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒░░░░░▒▓█▓▒░░▒▓█▓░░░░▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+<img src="https://raw.githubusercontent.com/ecliptik/ecliptik/main/divider.svg" alt="" width="100%"/>
 
 ### `whoami`
 
@@ -25,7 +25,7 @@
 - 📡 Based in **San Diego, CA**
 - 🔮 [ecliptik.com](https://www.ecliptik.com)
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒░░░░░▒▓█▓▒░░▒▓█▓░░░░▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+<img src="https://raw.githubusercontent.com/ecliptik/ecliptik/main/divider.svg" alt="" width="100%"/>
 
 ### `ps aux | grep repos`
 
