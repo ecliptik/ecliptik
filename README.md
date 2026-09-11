@@ -1,10 +1,8 @@
 <div align="center">
 
-# ⌁ ECLIPTIK ⌁
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF2079,100:00F0FF&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" alt="ecliptik" width="100%"/>
 
 **RETROCOMPUTING // FINOPS // CLOUD**
-
-<sub>ﾊﾐﾋｰｳｼﾅﾓﾆｻﾜﾂｵﾘｱﾎﾃﾏｹﾒｴｶｷﾑﾕﾗｾﾈｽﾀﾇﾍ　０１　ｱｸｾｽ　ｷｮｶ　010010　ﾈｯﾄﾜｰｸ　ｾﾂｿﾞｸ　ｶﾝﾘｮｳ</sub>
 
 <br/>
 
@@ -40,26 +38,8 @@
 | [**onigiri**](https://github.com/ecliptik/onigiri) | 🍙 A personal calorie tracking and goal setting app for iPhones and iPads | Swift | 4 |
 | [**dinspect**](https://github.com/ecliptik/dinspect) | NeoFetch clone for DOS | C | 0 |
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
-
-### `cat /proc/stack`
-
 <div align="center">
 
-![C](https://img.shields.io/badge/C-0D0221?style=for-the-badge&logo=c&logoColor=00F0FF)
-![Swift](https://img.shields.io/badge/Swift-190029?style=for-the-badge&logo=swift&logoColor=FF2079)
-![Bash](https://img.shields.io/badge/Bash-0D0221?style=for-the-badge&logo=gnubash&logoColor=00F0FF)
-![SDL2](https://img.shields.io/badge/SDL2-190029?style=for-the-badge&logoColor=FF2079)
-![Terraform](https://img.shields.io/badge/Terraform-0D0221?style=for-the-badge&logo=terraform&logoColor=B967FF)
-![AWS](https://img.shields.io/badge/AWS-190029?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0D0221?style=for-the-badge&logo=googlecloud&logoColor=00F0FF)
-![Git](https://img.shields.io/badge/Git-190029?style=for-the-badge&logo=git&logoColor=FF2079)
-![Linux](https://img.shields.io/badge/Linux-0D0221?style=for-the-badge&logo=linux&logoColor=00F0FF)
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:0D0221&height=150&section=footer&text=END%20OF%20LINE&fontSize=28&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:0D0221&height=150&section=footer&text=NO%20CARRIER&fontSize=28&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" alt="footer" width="100%"/>
 
 </div>
