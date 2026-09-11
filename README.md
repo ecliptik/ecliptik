@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF2079,100:00F0FF&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" alt="ecliptik" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF2079,100:00F0FF&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" alt="ecliptik" width="100%"/>
 
 **RETROCOMPUTING // FINOPS // CLOUD**
 
