@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=c0caf5&fontAlignY=35&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e1e2e7,50:2e7de9,100:9854f1&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=3760bf&fontAlignY=35&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=c0caf5&fontAlignY=35&animation=fadeIn" alt="ecliptik" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26%2C50:7aa2f7%2C100:bb9af7&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=c0caf5&fontAlignY=35&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e1e2e7%2C50:2e7de9%2C100:9854f1&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=3760bf&fontAlignY=35&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26%2C50:7aa2f7%2C100:bb9af7&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=c0caf5&fontAlignY=35&animation=fadeIn" alt="ecliptik" width="100%"/>
 </picture>
 
 **RETROCOMPUTING // FINOPS // CLOUD**
@@ -65,9 +65,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=150&section=footer&text=9D%20HCF&fontSize=28&fontColor=c0caf5&fontAlignY=75&animation=fadeIn">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9854f1,50:2e7de9,100:e1e2e7&height=150&section=footer&text=9D%20HCF&fontSize=28&fontColor=3760bf&fontAlignY=75&animation=fadeIn">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=150&section=footer&text=9D%20HCF&fontSize=28&fontColor=c0caf5&fontAlignY=75&animation=fadeIn" alt="footer" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7%2C50:7aa2f7%2C100:1a1b26&height=150&section=footer&text=9D%20HCF&fontSize=28&fontColor=c0caf5&fontAlignY=75&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:9854f1%2C50:2e7de9%2C100:e1e2e7&height=150&section=footer&text=9D%20HCF&fontSize=28&fontColor=3760bf&fontAlignY=75&animation=fadeIn">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7%2C50:7aa2f7%2C100:1a1b26&height=150&section=footer&text=9D%20HCF&fontSize=28&fontColor=c0caf5&fontAlignY=75&animation=fadeIn" alt="footer" width="100%"/>
 </picture>
 
 </div>
