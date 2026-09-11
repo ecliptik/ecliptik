@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:FF2079,100:00F0FF&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" alt="ecliptik" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:bb9af7&height=150&section=header&text=ECLIPTIK&fontSize=28&fontColor=c0caf5&fontAlignY=35&animation=fadeIn" alt="ecliptik" width="100%"/>
 
 **RETROCOMPUTING // FINOPS // CLOUD**
 
 <br/>
 
-<a href="https://www.ecliptik.com"><img src="https://img.shields.io/badge/WEBSITE-ecliptik.com-00F0FF?style=for-the-badge&logo=firefox&logoColor=black" alt="Website"/></a>
-<a href="https://social.ecliptik.com/@micheal"><img src="https://img.shields.io/badge/MASTODON-%40micheal-FF2079?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
-<a href="https://bsky.app/profile/ecliptik.com"><img src="https://img.shields.io/badge/BLUESKY-ecliptik.com-7700A6?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+<a href="https://www.ecliptik.com"><img src="https://img.shields.io/badge/WEBSITE-ecliptik.com-7dcfff?style=for-the-badge&labelColor=1a1b26&logo=firefox&logoColor=c0caf5" alt="Website"/></a>
+<a href="https://social.ecliptik.com/@micheal"><img src="https://img.shields.io/badge/MASTODON-%40micheal-f7768e?style=for-the-badge&labelColor=1a1b26&logo=mastodon&logoColor=c0caf5" alt="Mastodon"/></a>
+<a href="https://bsky.app/profile/ecliptik.com"><img src="https://img.shields.io/badge/BLUESKY-ecliptik.com-bb9af7?style=for-the-badge&labelColor=1a1b26&logo=bluesky&logoColor=c0caf5" alt="Bluesky"/></a>
 
 </div>
 
@@ -40,6 +40,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:FF2079,100:0D0221&height=150&section=footer&text=NO%20CARRIER&fontSize=28&fontColor=FFFFFF&fontAlignY=75&animation=fadeIn" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:1a1b26&height=150&section=footer&text=NO%20CARRIER&fontSize=28&fontColor=c0caf5&fontAlignY=75&animation=fadeIn" alt="footer" width="100%"/>
 
 </div>

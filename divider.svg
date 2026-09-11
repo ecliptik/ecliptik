@@ -1,13 +1,13 @@
 <svg width="1000" height="40" viewBox="0 0 1000 40" xmlns="http://www.w3.org/2000/svg">
 <defs>
 <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
-<stop offset="0%" stop-color="#0D0221" stop-opacity="0"/>
-<stop offset="10%" stop-color="#FF2079" stop-opacity="1"/>
-<stop offset="35%" stop-color="#00F0FF" stop-opacity="1"/>
-<stop offset="50%" stop-color="#00F0FF" stop-opacity="0.08"/>
-<stop offset="65%" stop-color="#00F0FF" stop-opacity="1"/>
-<stop offset="90%" stop-color="#FF2079" stop-opacity="1"/>
-<stop offset="100%" stop-color="#0D0221" stop-opacity="0"/>
+<stop offset="0%" stop-color="#1a1b26" stop-opacity="0"/>
+<stop offset="10%" stop-color="#7aa2f7" stop-opacity="1"/>
+<stop offset="35%" stop-color="#7dcfff" stop-opacity="1"/>
+<stop offset="50%" stop-color="#7dcfff" stop-opacity="0.08"/>
+<stop offset="65%" stop-color="#7dcfff" stop-opacity="1"/>
+<stop offset="90%" stop-color="#bb9af7" stop-opacity="1"/>
+<stop offset="100%" stop-color="#1a1b26" stop-opacity="0"/>
 </linearGradient>
 <filter id="glow" x="-20%" y="-400%" width="140%" height="900%">
 <feGaussianBlur stdDeviation="2.6" result="blur"/>
